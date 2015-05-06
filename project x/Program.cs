@@ -27,7 +27,7 @@ namespace project_x
             }     
         f = true;
 
-        while (f = true & (a < z))
+        while (f = true && (a < z))
         {
             //while character at a of x is one of 
             while (x[a] == ' ' || x[a] == ',' || x[a] == '!' || x[a] == '?' || x[a] == '.')
