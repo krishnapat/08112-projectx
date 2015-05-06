@@ -1,0 +1,8 @@
+c:\users\krish\documents\visual studio 2013\Projects\project x\project x\bin\Debug\project x.exe.config
+c:\users\krish\documents\visual studio 2013\Projects\project x\project x\obj\Debug\project x.csprojResolveAssemblyReference.cache
+D:\project x\project x\bin\Debug\project x.exe.config
+D:\project x\project x\bin\Debug\project x.exe
+D:\project x\project x\bin\Debug\project x.pdb
+D:\project x\project x\obj\Debug\project x.csprojResolveAssemblyReference.cache
+D:\project x\project x\obj\Debug\project x.exe
+D:\project x\project x\obj\Debug\project x.pdb
