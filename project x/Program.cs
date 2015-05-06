@@ -49,15 +49,16 @@ namespace project_x
                 f = false;
             }
         }
-            //if the toUpperCase of character at a of x is identical to the
-            //toUpperCase of character at z of x then
-            //a++ and z--;
-            //else
-            //f=0;
-            //if f=0 then
-            //print out appropriate message
-            //else
-            //print out other appropriate message
+
+            if (f == false)
+            {
+
+            }
+            else 
+            {
+
+            }
+            
         }
     }
 }
